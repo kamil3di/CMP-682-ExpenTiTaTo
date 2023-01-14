@@ -27,3 +27,5 @@ This repository includes CMP 682 course's final project which have prepared by K
 6) You can play the game on your terminal. Enjoy! 
 
 7) To terminate the code press "CTRL+C" when you are in terminal. If you have selected to run the game using virtual enviroment type "deactivate" at the end and stop using this special virtual enviroment.
+
+Thank you for your visiting and playing our game!
